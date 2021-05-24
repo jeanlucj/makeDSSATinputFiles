@@ -11,3 +11,5 @@ it will:
 and put them in the CSfiles folder  
 NOTE: it uses the Cassavabase-given `studyDbId` as part of each CS_ file to 
 ensure that the CS_ file names are unique  
+NOTE: the 2018 Ibadan trial does not have a harvest date listed.  So that one
+fails
